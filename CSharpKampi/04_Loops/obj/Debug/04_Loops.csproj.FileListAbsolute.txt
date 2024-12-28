@@ -1,0 +1,7 @@
+C:\Users\Esra\source\repos\CSharpKampi\04_Loops\bin\Debug\04_Loops.exe.config
+C:\Users\Esra\source\repos\CSharpKampi\04_Loops\bin\Debug\04_Loops.exe
+C:\Users\Esra\source\repos\CSharpKampi\04_Loops\bin\Debug\04_Loops.pdb
+C:\Users\Esra\source\repos\CSharpKampi\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
+C:\Users\Esra\source\repos\CSharpKampi\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Esra\source\repos\CSharpKampi\04_Loops\obj\Debug\04_Loops.exe
+C:\Users\Esra\source\repos\CSharpKampi\04_Loops\obj\Debug\04_Loops.pdb

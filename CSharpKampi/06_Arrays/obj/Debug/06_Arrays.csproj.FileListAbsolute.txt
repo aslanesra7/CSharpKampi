@@ -1,0 +1,7 @@
+C:\Users\Esra\source\repos\CSharpKampi\06_Arrays\bin\Debug\06_Arrays.exe.config
+C:\Users\Esra\source\repos\CSharpKampi\06_Arrays\bin\Debug\06_Arrays.exe
+C:\Users\Esra\source\repos\CSharpKampi\06_Arrays\bin\Debug\06_Arrays.pdb
+C:\Users\Esra\source\repos\CSharpKampi\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+C:\Users\Esra\source\repos\CSharpKampi\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Esra\source\repos\CSharpKampi\06_Arrays\obj\Debug\06_Arrays.exe
+C:\Users\Esra\source\repos\CSharpKampi\06_Arrays\obj\Debug\06_Arrays.pdb

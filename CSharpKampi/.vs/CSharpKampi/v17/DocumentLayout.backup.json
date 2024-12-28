@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Esra\\source\\repos\\CSharpKampi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2F354D-B13F-463B-B31E-1607C4D8570E}|10_DatabaseCrud\\10_DatabaseCrud.csproj|c:\\users\\esra\\source\\repos\\csharpkampi\\10_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2F354D-B13F-463B-B31E-1607C4D8570E}|10_DatabaseCrud\\10_DatabaseCrud.csproj|solutionrelative:10_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F46184D-8BA3-4418-AFF3-7E2D31D1FC12}|09_DatabaseProject\\09_DatabaseProject.csproj|C:\\Users\\Esra\\source\\repos\\CSharpKampi\\09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F46184D-8BA3-4418-AFF3-7E2D31D1FC12}|09_DatabaseProject\\09_DatabaseProject.csproj|solutionrelative:09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 956,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Esra\\source\\repos\\CSharpKampi\\09_DatabaseProject\\Program.cs",
+              "RelativeDocumentMoniker": "09_DatabaseProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Esra\\source\\repos\\CSharpKampi\\09_DatabaseProject\\Program.cs",
+              "RelativeToolTip": "09_DatabaseProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:42:41.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Esra\\source\\repos\\CSharpKampi\\10_DatabaseCrud\\Program.cs",
+              "RelativeDocumentMoniker": "10_DatabaseCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\Esra\\source\\repos\\CSharpKampi\\10_DatabaseCrud\\Program.cs",
+              "RelativeToolTip": "10_DatabaseCrud\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:29:28.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

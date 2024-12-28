@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Esra\\source\\repos\\CSharpEgitimKampi301\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32ED2DDD-22E3-4786-A5D1-79CC1A7A88DE}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|c:\\users\\esra\\source\\repos\\csharpegitimkampi301\\csharpegitimkampi301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32ED2DDD-22E3-4786-A5D1-79CC1A7A88DE}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32ED2DDD-22E3-4786-A5D1-79CC1A7A88DE}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|C:\\Users\\Esra\\source\\repos\\CSharpEgitimKampi301\\csharpegitimkampi301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32ED2DDD-22E3-4786-A5D1-79CC1A7A88DE}|CSharpEgitimKampi301.EFProject\\CSharpEgitimKampi301.EFProject.csproj|solutionrelative:csharpegitimkampi301.efproject\\frmstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 956,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmStatistics.cs",
+              "DocumentMoniker": "C:\\Users\\Esra\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
+              "ToolTip": "C:\\Users\\Esra\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs*",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmStatistics.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:34:09.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmStatistics.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Esra\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.EFProject\\FrmStatistics.cs",
+              "ToolTip": "C:\\Users\\Esra\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EFProject\\FrmStatistics.cs [Design]*",
+              "RelativeToolTip": "CSharpEgitimKampi301.EFProject\\FrmStatistics.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:23:29.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

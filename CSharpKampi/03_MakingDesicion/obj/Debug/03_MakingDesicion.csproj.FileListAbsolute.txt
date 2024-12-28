@@ -1,0 +1,7 @@
+C:\Users\Esra\source\repos\CSharpKampi\03_MakingDesicion\bin\Debug\03_MakingDesicion.exe.config
+C:\Users\Esra\source\repos\CSharpKampi\03_MakingDesicion\bin\Debug\03_MakingDesicion.exe
+C:\Users\Esra\source\repos\CSharpKampi\03_MakingDesicion\bin\Debug\03_MakingDesicion.pdb
+C:\Users\Esra\source\repos\CSharpKampi\03_MakingDesicion\obj\Debug\03_MakingDesicion.csproj.AssemblyReference.cache
+C:\Users\Esra\source\repos\CSharpKampi\03_MakingDesicion\obj\Debug\03_MakingDesicion.csproj.CoreCompileInputs.cache
+C:\Users\Esra\source\repos\CSharpKampi\03_MakingDesicion\obj\Debug\03_MakingDesicion.exe
+C:\Users\Esra\source\repos\CSharpKampi\03_MakingDesicion\obj\Debug\03_MakingDesicion.pdb
