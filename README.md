@@ -38,6 +38,14 @@ Bu projede Void(geriye değer döndürmeyen) metotları öğrendim. Parametresiz
 
 Bu projede veritabnıyla ilişki kurmayı öğrendim. Bir veritabanı oluşturup tablolar oluşturduk. İçine deneme verileri girdik. Ve C# üzerinden veritabanına bağlandık. Sql sorgularını C# komutlarımız içinde kullanabildik ve verilere erişebildik.
 
+## 💎10_CRUD 💎
+Bu projede veri tabanıyla etkileşim sağlanarak temel CRUD(Create,Read,Update,Delete) işlemleri gerçekleştirildi . Proje sayesinde SQL komutlarıyla veritabanı üzerinde işlemleri pekiştirdim.
+
+## 💎11_TravelProject 💎
+Bu kısımda Entity Framework kullanarak veri tabanındaki bilgileri çektik. bunları üzerinde çeşitli istatistiksel işlemler yaptık. Ve Windows Forms formatıyla kullanıcıya verileri canlı olarak gösterilmesini sağladık. Görselde de görüldüğü üzere toplam lokasyon sayısını, topam tur kapasitelerini, rehber sayılarını, ortalama tur kapasitesini, ortalama tur fiyatını, eklenen son ülkeyi vb. verileri çektik.
+🧠Bu proje sayesinde Entity Framework komutlarını ve LINQ ifadeleri etkin bir şekilde kullanmayı öğrendim. Aynı zamanda Windows Form ile kullanıcıya görsel olarak verileri sunmak da kullanıcı dostu bir deneyim açısından faydalı oldu.
+![image](https://github.com/user-attachments/assets/5e4afd1a-a874-421e-8117-4a20f5e17906)
+
 
 
 
